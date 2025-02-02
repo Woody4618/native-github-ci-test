@@ -23,6 +23,8 @@ test-ledger
 
 ## Step 3: Create Github Actions Workflow
 
+Create a new file in the `.github/workflows` directory called `build.yaml`.
+
 ```yaml
 name: Devnet Build and Deploy with IDL
 
